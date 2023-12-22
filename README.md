@@ -9,6 +9,7 @@ Currently, I am contributing to projects including Podman, Prometheus, and Node 
 * Podman - added container level hosts file configuration and fixed Docker API compatibility with network aliases
 * Prometheus - fixed public IP address discovery in Azure service discovery module
 * Node exporter - added XFRM monitoring module
+* Sealed Secrets - added functionality to create immutable secrets
 
 #### Other notable contributions
 
