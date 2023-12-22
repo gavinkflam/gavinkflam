@@ -14,4 +14,4 @@ Currently, I am contributing to projects including Podman, Prometheus, and Seale
 #### Other notable contributions
 
 * Uberdeps - added Multi-Release JAR building capability to the Clojure JAR builder library
-* Geni - added capability to create fields of struct array dataframe to the Clojure dataframe library that runs on Apache Spark
+* Geni - added functionality to create fields of struct array dataframe to the Clojure dataframe library that runs on Apache Spark
