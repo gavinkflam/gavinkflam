@@ -2,7 +2,7 @@
 
 I am a full-stack developer based in New York, with a keen interest in Kubernetes, cloud computing, monitoring solutions, and DevOps.
 
-Currently, I am contributing to projects including Podman, Prometheus, and Node exporter, introducing new features and implementing fixes.
+Currently, I am contributing to projects including Podman, Prometheus, and Sealed Secrets, introducing new features and implementing fixes.
 
 #### Containerization and monitoring
 
