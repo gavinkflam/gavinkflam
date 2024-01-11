@@ -9,7 +9,7 @@ Outside work, I contribute to open-source projects including Podman, Prometheus,
 * Node exporter - added XFRM monitoring module.
 * Sealed Secrets - added functionality to create immutable secrets.
 
-#### Other libraries
+#### Clojure libraries
 
 * Uberdeps - added Multi-Release JAR building capability to the Clojure JAR builder library.
 * Geni - added functionality to create struct array dataframe to the Clojure dataframe library.
