@@ -6,7 +6,7 @@ Outside work, I contribute to open-source projects including Podman, Prometheus,
 
 * Podman - added container level hosts file configuration and fixed Docker API compatibility with network aliases.
 * Prometheus - fixed public IP address discovery in Azure service discovery module.
-* Node exporter - added XFRM monitoring module.
+* Node exporter - added watchdog and XFRM monitoring modules.
 * Sealed Secrets - added functionality to create immutable secrets.
 
 #### Clojure libraries
