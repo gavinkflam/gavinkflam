@@ -1,6 +1,6 @@
 ### Hi there, I'm Gavin
 
-I am a full-stack developer based in New York. In my free time, I contribute to open-source projects related to Kubernetes, containerization and DevOps.
+I am a full-stack developer based in New York. In my free time, I contribute to open-source projects related to Kubernetes, containerization and DevOps. Some of my notable contributions include:
 
 * Podman - added container level hosts file configuration and fixed Docker API compatibility with network aliases. [1]
 * Prometheus - fixed public IP address discovery in Azure service discovery module. [2]
