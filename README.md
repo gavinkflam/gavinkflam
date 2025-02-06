@@ -1,11 +1,10 @@
 ### Hi there, I'm Gavin
 
-I am a full-stack developer based in New York. In my free time, I contribute to open-source projects related to Kubernetes, containerization and DevOps. Some of my notable contributions include:
+I am a developer based in New York. Beyond my day job, I contribute to open-source projects related to Kubernetes, containerization and DevOps. Some of my notable contributions are:
 
-* Podman - added `--hosts-file` flag to container and pod commands; fixed Docker API compatibility with network aliases. [1]
-* Prometheus - fixed public IP address discovery in Azure service discovery module. [2]
-* Node exporter - added watchdog and XFRM monitoring modules. [3], [4]
-* Sealed Secrets - added functionality to create immutable secrets. [5]
+* Podman - Added a flag to override container and pod hosts file. Fixed Docker API compatibility with network aliases. [1]
+* Prometheus - Added public IP address to discovered Azure machines. Added watchdog and XFRM monitoring to Node exporter. [2], [3], [4]
+* Sealed Secrets - Added functionality to create immutable secrets. [5]
 
 [1]: https://github.com/containers/podman/commits/main/?author=gavinkflam
 [2]: https://github.com/prometheus/prometheus/commits/main/?author=gavinkflam
