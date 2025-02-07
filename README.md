@@ -2,7 +2,7 @@
 
 I am a developer based in New York. Beyond my day job, I contribute to open-source projects related to Kubernetes, containerization and DevOps. Some of my notable contributions are:
 
-* Podman - Added a flag to override container and pod hosts file. Fixed Docker API compatibility with network aliases. [1]
+* Podman - Added a flag for overriding container and pod hosts file. Fixed network aliases in Docker-compatible API. [1]
 * Prometheus - Added public IP address to discovered Azure machines. [2]
 * Node exporter - Added watchdog and XFRM monitoring modules. [3], [4]
 * Sealed Secrets - Added functionality to create immutable secrets. [5]
