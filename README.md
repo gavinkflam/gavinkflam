@@ -2,7 +2,7 @@
 
 I am a software engineer based in New York. Beyond my day job, I contribute to open-source projects in the Kubernetes, containerization and monitoring ecosystems. Some of my key contributions include:
 
-* Podman: Implemented new flags for overriding hosts file. Resolved network alias issues in Docker API. [1]
+* Podman: Implemented new flags for overriding hosts file and resolved network alias issues in Docker API. [1]
 * Prometheus: Enhanced Azure service discovery by adding public IP address detection. [2]
 * Node Exporter: Developed new modules for watchdog and XFRM monitoring. [3], [4]
 * Envoy Gateway: Improved HTTP route, client traffic policy and security policy with validations. [5]
