@@ -5,7 +5,7 @@ I am a software engineer based in New York. Beyond my day job, I contribute to o
 * Podman: Implemented new flags for overriding hosts file. Resolved network alias issues in Docker API. [1]
 * Prometheus: Enhanced Azure service discovery by adding public IP address detection. [2]
 * Node Exporter: Developed new modules for watchdog and XFRM monitoring. [3], [4]
-* Envoy Gateway: Improved HTTP route filter and client traffic policy with header values validation. [5]
+* Envoy Gateway: Improved HTTP route, client traffic policy and security policy with validations. [5]
 * Sealed Secrets: Added functionality to create immutable secrets for improved security. [6]
 
 [1]: https://github.com/containers/podman/commits/main/?author=gavinkflam
