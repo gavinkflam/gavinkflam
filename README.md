@@ -1,6 +1,6 @@
 ### Hi there, I'm Gavin
 
-I am a software engineer based in New York. Beyond my day job, I contribute to open-source projects in Kubernetes, containerization and monitoring ecosystems. Some of my key contributions include:
+I am a software engineer based in New York. Beyond my day job, I contribute to open-source projects in Kubernetes, containerization and monitoring ecosystems. Some of my notable contributions include:
 
 * Podman: Implemented new flags for overriding hosts file and resolved network alias issues in Docker API. [1]
 * Prometheus: Enhanced Azure service discovery by adding public IP address detection. [2]
