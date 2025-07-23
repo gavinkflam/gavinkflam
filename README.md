@@ -4,7 +4,7 @@ I am a software engineer based in New York. Beyond my full-time role, I actively
 
 * Podman: Implemented new flags for overriding hosts file and resolved network alias issues in Docker API. [1]
 * Kubernetes: Extended system monitoring role to allow access to kubelet metrics endpoints. [2]
-* CRI-O: Added HugeTLB metrics [3]
+* CRI-O: Added HugeTLB pages usage metrics. [3]
 * Prometheus: Enhanced Azure service discovery by adding public IP address detection. [4]
 * Node Exporter: Developed new modules for watchdog and XFRM monitoring. [5], [6]
 * Kubernetes ingress2gateway: Implemented conversion of ingress backends with named ports. [7]
