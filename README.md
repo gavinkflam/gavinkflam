@@ -12,7 +12,7 @@ I am a software engineer based in New York. In my free time, I enjoy contributin
   * Implemented new flags to override hosts file of pods and containers.
   * Fixed network alias issues in Docker-compatible API.
 * CRI-O: Added container metrics of persistent HugeTLB page usages. [4]
-* OCI, containerd: Fixed cgroup v2 HugeTLB metrics collection issues and implemented a missing metric. [5], [6]
+* OCI, containerd: Fixed cgroup v2 HugeTLB metrics collection issues and implemented a new metric. [5], [6]
 * Envoy Gateway: Improved validation for HTTP routes, client traffic policies, and security policies. [7]
 * Sealed Secrets: Implemented functionality to create immutable secrets. [8]
 
