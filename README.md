@@ -2,7 +2,7 @@
 
 I am a software engineer based in New York. In my free time, I enjoy contributing to open-source projects. Some of my notable contributions include:
 
-#### ☸️ Kubernetes and containerization
+#### ☸️ Kubernetes and containers
 
 * Kubernetes [1], [2]
   * Implemented named ports conversion in ingress2gateway.
