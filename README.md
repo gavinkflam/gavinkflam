@@ -5,9 +5,9 @@ I am a software engineer based in New York. In my free time, I enjoy contributin
 #### ☸️ Kubernetes and containers
 
 * Kubernetes [1], [2]
-  * Added a metric to detect duplicate validations and removed redundant validations of nine resource types.
-  * Implemented named ports conversion in ingress2gateway.
   * Extended system monitoring role to allow access to kubelet metrics endpoints.
+  * Implemented named ports conversion in ingress2gateway.
+  * Added a metric to detect duplicate validations and removed redundant validations of nine resource types.
   * Improved admission control metrics with better error codes.
 * Podman [3]
   * Implemented new flags to override hosts file of pods and containers.
