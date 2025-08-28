@@ -5,15 +5,16 @@ I am a software engineer based in New York. In my free time, I enjoy contributin
 #### ☸️ Kubernetes and containers
 
 * Kubernetes [1], [2]
+  * Added a metric to detect duplicate validations and removed redundant validations of nine resource types.
   * Implemented named ports conversion in ingress2gateway.
   * Extended system monitoring role to allow access to kubelet metrics endpoints.
   * Improved admission control metrics with better error codes.
 * Podman [3]
   * Implemented new flags to override hosts file of pods and containers.
-  * Fixed network alias issues in Docker-compatible API.
+  * Fixed network alias incompatibilities with Docker Compose.
 * CRI-O: Added number of processes metric and HugeTLB page metrics. [4]
 * OCI, containerd: Fixed cgroup v2 HugeTLB metrics collection issues and implemented a new metric. [5], [6]
-* Envoy Gateway: Improved validation for HTTP routes, client traffic policies, and security policies. [7]
+* Envoy Gateway: Improved validation for HTTP routes, client traffic policies and security policies. [7]
 * Sealed Secrets: Implemented functionality to create immutable secrets. [8]
 
 #### 📊 Monitoring
