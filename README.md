@@ -12,7 +12,9 @@ I am a software engineer based in New York. In my free time, I enjoy contributin
 * Podman [3]
   * Implemented new flags to override hosts file of pods and containers.
   * Fixed network alias incompatibilities with Docker Compose.
-* CRI-O: Added number of processes metric and HugeTLB page metrics. [4]
+* CRI-O [4]
+  * Implemented a new configuration for specifying different seccomp profiles per runtime.
+  * Added number of processes metric and HugeTLB page metrics.
 * Envoy Gateway: Improved validation for HTTP routes, client traffic policies and security policies. [5]
 * Sealed Secrets: Implemented functionality to create immutable secrets. [6]
 * OCI, containerd: Fixed cgroup v2 HugeTLB metrics collection issues and implemented a new metric. [7], [8]
