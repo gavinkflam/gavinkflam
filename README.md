@@ -23,17 +23,17 @@ Golang [5]
 
 * Enhanced refactoring inliner to preserve the package aliases of the inlined function.
 
-Monitoring
+Prometheus
 
-* Prometheus: Enhanced Azure service discovery by adding public IP address detection. [6]
-* Node Exporter: Developed new modules for watchdog and XFRM monitoring. [7], [8]
+* Enhanced Azure service discovery by adding public IP address detection. [6]
+* Added watchdog and XFRM monitoring modules to Node Exporter. [7], [8]
 
-Other containerization projects
+Other notable contributions
 
 * Envoy Gateway: Improved validation for HTTP routes, client traffic policies and security policies. [9]
 * Sealed Secrets: Implemented functionality to create immutable secrets. [10]
 * OCI, containerd: Fixed cgroup v2 HugeTLB metrics collection issues and implemented a new metric. [11], [12]
-
+* Uberdeps: Added multi release JAR building functionality to the Clojure Uberjar builder. [13]
 
 [1]: https://github.com/kubernetes/kubernetes/commits/master/?author=gavinkflam
 [2]: https://github.com/kubernetes-sigs/ingress2gateway/commits/main/?author=gavinkflam
@@ -47,3 +47,4 @@ Other containerization projects
 [10]: https://github.com/bitnami-labs/sealed-secrets/commits/main/?author=gavinkflam
 [11]: https://github.com/opencontainers/cgroups/commits/main/?author=gavinkflam
 [12]: https://github.com/containerd/cgroups/commits/main/?author=gavinkflam
+[13]: https://github.com/tonsky/uberdeps/commits/master/?author=gavinkflam
