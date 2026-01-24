@@ -2,7 +2,7 @@
 
 I am a software engineer based in New York. In my free time, I enjoy contributing to open-source projects. Some of my notable contributions include:
 
-Golang [1], [2]
+Go [1], [2]
 
 * runtime/rand: Sped up cheaprand64 by 42% and cheaprand by 10%.
 * x/tools: Enhanced refactor inliner to preserve package aliases used by the inlined function.
