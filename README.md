@@ -37,16 +37,16 @@ Other notable contributions
 * Uberdeps: Added multi release JAR building functionality to the Clojure Uberjar builder. [14]
 
 [1]: https://github.com/golang/go/commits?author=gavinkflam
-[2]: https://github.com/golang/tools/commits/master/?author=gavinkflam
-[3]: https://github.com/kubernetes/kubernetes/commits/master/?author=gavinkflam
-[4]: https://github.com/kubernetes-sigs/ingress2gateway/commits/main/?author=gavinkflam
-[5]: https://github.com/containers/podman/commits/main/?author=gavinkflam
+[2]: https://github.com/golang/tools/commits?author=gavinkflam
+[3]: https://github.com/kubernetes/kubernetes/commits?author=gavinkflam
+[4]: https://github.com/kubernetes-sigs/ingress2gateway/commits?author=gavinkflam
+[5]: https://github.com/containers/podman/commits?author=gavinkflam
 [6]: https://github.com/cri-o/cri-o/commits?author=gavinkflam
-[7]: https://github.com/prometheus/prometheus/commits/main/?author=gavinkflam
-[8]: https://github.com/prometheus/node_exporter/commits/master/?author=gavinkflam
-[9]: https://github.com/prometheus/procfs/commits/master/?author=gavinkflam
-[10]: https://github.com/envoyproxy/gateway/commits/main/?author=gavinkflam
-[11]: https://github.com/bitnami-labs/sealed-secrets/commits/main/?author=gavinkflam
-[12]: https://github.com/opencontainers/cgroups/commits/main/?author=gavinkflam
-[13]: https://github.com/containerd/cgroups/commits/main/?author=gavinkflam
-[14]: https://github.com/tonsky/uberdeps/commits/master/?author=gavinkflam
+[7]: https://github.com/prometheus/prometheus/commits?author=gavinkflam
+[8]: https://github.com/prometheus/node_exporter/commits?author=gavinkflam
+[9]: https://github.com/prometheus/procfs/commits?author=gavinkflam
+[10]: https://github.com/envoyproxy/gateway/commits?author=gavinkflam
+[11]: https://github.com/bitnami-labs/sealed-secrets/commits?author=gavinkflam
+[12]: https://github.com/opencontainers/cgroups/commits?author=gavinkflam
+[13]: https://github.com/containerd/cgroups/commits?author=gavinkflam
+[14]: https://github.com/tonsky/uberdeps/commits?author=gavinkflam
