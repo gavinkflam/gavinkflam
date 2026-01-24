@@ -26,14 +26,15 @@ CRI-O [6]
 
 Prometheus
 
-* Enhanced Azure service discovery by adding public IP address detection. [7]
-* Added watchdog and XFRM monitoring modules to Node Exporter. [8], [9]
+* Azure service discovery: Implemented public IP address metadata. [7]
+* Node Exporter: Added watchdog and XFRM monitoring modules. [8], [9]
 
 Other notable contributions
 
 * Sealed Secrets: Implemented creation of immutable secrets. [10]
 * Envoy Gateway: Improved validation of HTTP routes, client traffic policies and security policies. [11]
-* OCI, containerd: Fixed cgroup v2 HugeTLB metrics collection issues and added a new HugeTLB metric. [12], [13]
+* OCI/cgroups: Fixed cgroup v2 HugeTLB metrics collection when rsvd control files exist. [12]
+* containerd/cgroups: Added a HugeTLB allocation failure metric. [13]
 * Uberdeps: Added multi release JAR building capability to the Clojure Uberjar builder. [14]
 
 [1]: https://github.com/golang/go/commits?author=gavinkflam
