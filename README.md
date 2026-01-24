@@ -4,7 +4,7 @@ I am a software engineer based in New York. In my free time, I enjoy contributin
 
 Go [1], [2]
 
-* runtime/rand: Sped up cheaprand64 by 42% and cheaprand by 10%.
+* runtime/rand: Sped up cheaprand64 by 1.74x and cheaprand by 1.11x.
 * x/tools: Enhanced refactor inliner to preserve package aliases used by the inlined function.
 
 Kubernetes [3], [4]
