@@ -9,7 +9,8 @@ Go [1], [2]
 
 Kubernetes [3], [4]
 
-* ingress2gateway: Implemented conversion of ingress rules with named ports.
+* ingress2gateway: Added conversion of ingress rules with named ports.
+* storage: Implemented link file owner setting of service account tokens, cluster trust bundles and pod certificates.
 * api: Removed redundant validations of nine resource types and added a metric to prevent them.
 * auth: Extended system monitoring role adding access to kubelet metrics APIs.
 * admission: Improved admission control metrics with better error codes.
