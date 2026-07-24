@@ -42,9 +42,9 @@ Other notable contributions
 [1]: https://github.com/golang/go/commits?author=gavinkflam
 [2]: https://github.com/golang/tools/commits?author=gavinkflam
 [3]: https://github.com/kubernetes/kubernetes/commits?author=gavinkflam
-[4]: https://github.com/kubernetes-sigs/ingress2gateway/commits?author=gavinkflam
-[5]: https://github.com/kubernetes/enhancements/commits?author=gavinkflam
-[6]: https://github.com/kubernetes/enhancements/blob/master/keps/sig-storage/5936-atomic-write-volume-user-fields/README.md
+[4]: https://github.com/kubernetes/enhancements/commits?author=gavinkflam
+[5]: https://github.com/kubernetes-sigs/ingress2gateway/commits?author=gavinkflam
+[6]: https://www.kubernetes.dev/resources/keps/5936/
 [7]: https://github.com/kubernetes/enhancements/issues/5936
 [8]: https://github.com/containers/podman/commits?author=gavinkflam
 [9]: https://github.com/cri-o/cri-o/commits?author=gavinkflam
