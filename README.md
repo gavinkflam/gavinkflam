@@ -7,12 +7,12 @@ Go [1], [2]
 * runtime/rand: Sped up cheaprand64 by 1.74x and cheaprand by 1.11x.
 * x/tools: Enhanced refactor inliner to preserve package aliases used by the inlined function.
 
-Kubernetes [3], [4], [5]
+Kubernetes [3], [4], [5], [6]
 
-* KEP-5936: Added user fields to four volume types allowing users to configure data file owner. [6], [7]
-* ingress2gateway: Added conversion of ingress rules with named ports.
-* storage: Implemented link file owner setting of service account tokens, cluster trust bundles and pod certificates.
-* api: Removed redundant validations of nine resource types and added a metric to prevent them.
+* KEP-5936: Added file user ownership (UID) fields to ConfigMap, Secret, DownwardAPI and Projected volumes. [7]
+* ingress2gateway: Added capability to convert Ingress rules with named ports to GatewayAPI.
+* storage: Implemented link file owner setting of ServiceAccountTokens, ClusterTrustBundles and PodCertificates.
+* api: Removed redundant validations of nine resource types and added a metric to track similar redundancies.
 * auth: Extended system monitoring role adding access to kubelet metrics APIs.
 * admission: Improved admission control metrics with better error codes.
 
@@ -44,8 +44,8 @@ Other notable contributions
 [3]: https://github.com/kubernetes/kubernetes/commits?author=gavinkflam
 [4]: https://github.com/kubernetes/enhancements/commits?author=gavinkflam
 [5]: https://github.com/kubernetes-sigs/ingress2gateway/commits?author=gavinkflam
-[6]: https://www.kubernetes.dev/resources/keps/5936/
-[7]: https://github.com/kubernetes/enhancements/issues/5936
+[6]: https://github.com/kubernetes/website/commits?author=gavinkflam
+[7]: https://www.kubernetes.dev/resources/keps/5936/
 [8]: https://github.com/containers/podman/commits?author=gavinkflam
 [9]: https://github.com/cri-o/cri-o/commits?author=gavinkflam
 [10]: https://github.com/prometheus/prometheus/commits?author=gavinkflam
