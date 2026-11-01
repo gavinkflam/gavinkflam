@@ -2,19 +2,19 @@
 
 I am a software engineer based in New York. In my free time, I enjoy contributing to open-source projects. Some of my notable contributions include:
 
-Go [1], [2]
+Kubernetes [1], [2], [3], [4]
 
-* runtime/rand: Sped up cheaprand64 by 1.74x and cheaprand by 1.11x.
-* x/tools: Enhanced refactor inliner to preserve package aliases used by the inlined function.
-
-Kubernetes [3], [4], [5], [6]
-
-* KEP-5936: Added file user ownership (UID) fields to ConfigMap, Secret, DownwardAPI and Projected volumes. [7]
+* KEP-5936: Added file user ownership (UID) fields to ConfigMap, Secret, DownwardAPI and Projected volumes. [5]
 * ingress2gateway: Added capability to convert Ingress rules with named ports to GatewayAPI.
 * storage: Implemented link file owner setting of ServiceAccountTokens, ClusterTrustBundles and PodCertificates.
 * api: Removed redundant validations of nine resource types and added a metric to track similar redundancies.
 * auth: Extended system monitoring role adding access to kubelet metrics APIs.
 * admission: Improved admission control metrics with better error codes.
+
+Go [6], [7]
+
+* runtime/rand: Sped up cheaprand64 by 1.74x and cheaprand by 1.11x.
+* x/tools: Enhanced refactor inliner to preserve package aliases used by the inlined function.
 
 Podman [8]
 
@@ -39,13 +39,13 @@ Other notable contributions
 * containerd/cgroups: Added a HugeTLB allocation failure metric. [16]
 * Uberdeps: Added multi release JAR building capability to the Clojure Uberjar builder. [17]
 
-[1]: https://github.com/golang/go/commits?author=gavinkflam
-[2]: https://github.com/golang/tools/commits?author=gavinkflam
-[3]: https://github.com/kubernetes/kubernetes/commits?author=gavinkflam
-[4]: https://github.com/kubernetes/enhancements/commits?author=gavinkflam
-[5]: https://github.com/kubernetes-sigs/ingress2gateway/commits?author=gavinkflam
-[6]: https://github.com/kubernetes/website/commits?author=gavinkflam
-[7]: https://www.kubernetes.dev/resources/keps/5936/
+[1]: https://github.com/kubernetes/kubernetes/commits?author=gavinkflam
+[2]: https://github.com/kubernetes/enhancements/commits?author=gavinkflam
+[3]: https://github.com/kubernetes-sigs/ingress2gateway/commits?author=gavinkflam
+[4]: https://github.com/kubernetes/website/commits?author=gavinkflam
+[5]: https://www.kubernetes.dev/resources/keps/5936/
+[6]: https://github.com/golang/go/commits?author=gavinkflam
+[7]: https://github.com/golang/tools/commits?author=gavinkflam
 [8]: https://github.com/containers/podman/commits?author=gavinkflam
 [9]: https://github.com/cri-o/cri-o/commits?author=gavinkflam
 [10]: https://github.com/prometheus/prometheus/commits?author=gavinkflam
